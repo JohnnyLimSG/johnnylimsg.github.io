@@ -213,3 +213,4 @@ section { padding: 64px 0; border-top: 1px solid var(--line); }
 /* Utility */
 .hero-compact { padding-bottom: 40px; }
 .narrow { max-width: 760px; }
+.article li ul { margin-top: 8px; }

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 380" width="700" height="380" role="img" aria-labelledby="t d">
+<title id="t">Recruitment content ranked by how likely it is to be cited</title>
+<desc id="d">Four tiers. Bottom, least likely to be cited: generic career advice that anyone can publish. Then: explainers of how your firm works, such as retained, exclusive and contingent search. Then: consultant profiles that show named expertise. Top, most likely to be cited: original data only you have, such as talent surveys and salary data.</desc>
+<style>text{font-family:-apple-system,"Segoe UI",Roboto,Arial,sans-serif}.h{font-size:16px;font-weight:700}.s{font-size:13px}.k{font-size:11px;font-weight:700;letter-spacing:1.2px}</style>
+<rect width="700" height="380" rx="16" fill="#faf8f4"/>
+<g transform="translate(16 0)">
+<path d="M235 28H435L470 100H200Z" fill="#16211f"/>
+<path d="M195 108H475L510 180H160Z" fill="#0f6b5c"/>
+<path d="M155 188H515L550 260H120Z" fill="#5fc2ad"/>
+<path d="M115 268H555L590 340H80Z" fill="#e4e0d8"/>
+<g text-anchor="middle">
+<text x="335" y="60" class="h" fill="#faf8f4">Original data</text><text x="335" y="80" class="s" fill="#b9cbc6">surveys · salary data</text>
+<text x="335" y="140" class="h" fill="#fff">Consultant profiles</text><text x="335" y="160" class="s" fill="#d3ebe5">named, credible experts</text>
+<text x="335" y="220" class="h" fill="#16211f">How your firm works</text><text x="335" y="240" class="s" fill="#16211f">retained · exclusive · contingent</text>
+<text x="335" y="300" class="h" fill="#4a5653">Generic career advice</text><text x="335" y="320" class="s" fill="#6d7875">anyone can publish it</text>
+</g>
+</g>
+<path d="M630 336V44" stroke="#d9a441" stroke-width="3" stroke-linecap="round"/><path d="M620 56l10-14 10 14" fill="none" stroke="#d9a441" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text class="k" fill="#6d7875" transform="translate(658 290) rotate(-90)">MORE LIKELY TO BE CITED</text>
+<text x="30" y="58" class="k" fill="#6d7875">ONLY YOU</text><text x="30" y="74" class="k" fill="#6d7875">HAVE IT</text>
+<text x="30" y="300" class="k" fill="#6d7875">EVERYONE</text><text x="30" y="316" class="k" fill="#6d7875">HAS IT</text>
+</svg>

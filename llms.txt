@@ -14,6 +14,7 @@
 - [Resume (PDF)](https://johnnylimsg.github.io/assets/Johnny_Lim_Resume.pdf): Full resume
 
 ## Blog
+- [SEO for recruitment firms: stop publishing generic content](https://johnnylimsg.github.io/blog/seo-for-recruitment-firms/): What I've learned doing SEO for a specialist recruiter: why generic content gets ignored by Google and AI search, and what works instead.
 - [SEO vs GEO: what changes when search gives answers instead of links](https://johnnylimsg.github.io/blog/seo-vs-geo/): Generative Engine Optimisation builds on SEO rather than replacing it. Here's what stays the same, what changes, and a practical checklist for getting cited by AI answer engines.
 
 ## Contact
