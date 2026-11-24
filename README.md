@@ -6,12 +6,13 @@ Plain HTML/CSS, no build step. GitHub Pages serves these files exactly as they a
 
 | File | What it does |
 |---|---|
-| `index.html` | Home page: profile, experience, skills, latest posts, contact |
+| `index.html` | Home page: hero, about, what I do, how I work, selected work, career, skills, latest posts, contact |
 | `blog/index.html` | List of all blog posts |
-| `blog/seo-vs-geo/index.html` | Starter post. **Review and edit it before publishing; it goes out under your name** |
+| `blog/seo-vs-geo/index.html` | First post: SEO vs GEO |
 | `blog/post-template/index.html` | Copy this to start a new post (hidden from Google) |
 | `assets/styles.css` | All styling |
 | `assets/Johnny_Lim_Resume.pdf` | Resume download (phone number removed for the public version) |
+| `assets/img/` | SVG illustrations: hero, selected work, blog diagrams |
 | `assets/og-image.png` | Preview image shown when the link is shared on LinkedIn/WhatsApp |
 | `sitemap.xml` | List of pages for Google (submit in Search Console) |
 | `robots.txt` | Lets search engines and AI crawlers in; points to the sitemap |
@@ -20,16 +21,21 @@ Plain HTML/CSS, no build step. GitHub Pages serves these files exactly as they a
 | `.nojekyll` | Tells GitHub to serve the files as-is (keep this file) |
 
 Every page has a title, a meta description, a canonical URL, Open Graph tags and JSON-LD schema
-(Person, WebSite, ProfilePage, Blog, BlogPosting). All of it is linked to the same Person entity.
+(Person, WebSite, ProfilePage, Blog, BlogPosting). Everything links by `@id`: posts point to the Person
+(`/#person`) as author and to the Blog (`/blog/#blog`) via `isPartOf`.
 
 ---
 
-## Before you upload: two find-and-replace jobs
+## Images
 
-Do these in any text editor that can search across a folder (VS Code: Ctrl+Shift+H).
+Illustrations live in `assets/img/` as small SVG files (a few KB each), so the site stays fast.
+Always give an `<img>` a `width`, a `height` and a descriptive `alt`, and add `loading="lazy"` to
+any image below the first screen.
 
-1. Replace `YOUR-USERNAME` with your GitHub username (lowercase).
-2. Replace `you@example.com` with the email address you want shown on the site.
+**Adding your headshot:** save a square photo (about 480×480, under 60 KB) as
+`assets/img/johnny-lim.jpg`. In `index.html`, replace the `<div class="about-photo about-mono" …>JL</div>`
+in the About section with the `<img>` tag shown in the comment above it. Then add
+`"image": "https://johnnylimsg.github.io/assets/img/johnny-lim.jpg",` to the Person schema in the `<head>`.
 
 ---
 

@@ -2,12 +2,20 @@
 
 > Johnny Lim is a Singapore-based digital marketing manager specialising in SEO and Generative Engine Optimisation (GEO). He has six years of hands-on SEO, content and website marketing experience and is currently Senior Marketing Manager at Kepler Search, a specialist recruitment firm for the commodities and trading sector.
 
+## Key facts
+- Location: Singapore
+- Focus: SEO, Generative Engine Optimisation (GEO), AI search visibility (Google AI Overviews, ChatGPT, Perplexity), authority content and original research
+- Results: grew website visits by nearly 700% through a content strategy (Include Consulting); grew webinar attendance by 300% (Include Consulting); led the Singapore Commodities Talent Survey 2026 (Kepler Search)
+- Sectors: recruitment, engineering, consulting, proptech, event technology
+- Education: Master of International Business and Bachelor of Advertising, Marketing & PR, Queensland University of Technology
+
 ## About
-- [Profile and experience](https://johnnylimsg.github.io/): Background, experience, skills and contact details
+- [Profile and experience](https://johnnylimsg.github.io/): Background, approach, selected work, career, skills and contact details
 - [Resume (PDF)](https://johnnylimsg.github.io/assets/Johnny_Lim_Resume.pdf): Full resume
 
 ## Blog
 - [SEO vs GEO: what changes when search gives answers instead of links](https://johnnylimsg.github.io/blog/seo-vs-geo/): Generative Engine Optimisation builds on SEO rather than replacing it. Here's what stays the same, what changes, and a practical checklist for getting cited by AI answer engines.
 
 ## Contact
+- Email: yuantenglim@gmail.com
 - LinkedIn: https://www.linkedin.com/in/johnny-lim-58348558/

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 380" width="700" height="380" role="img" aria-labelledby="t d">
+<title id="t">GEO is built on top of SEO</title>
+<desc id="d">Two layers. The SEO foundation: crawlable, fast, relevant to search intent, authoritative. The GEO layer on top: extractable answers, original data, a clear entity, tracking AI visibility. Together they lead to ranking in Google and being cited in AI answers.</desc>
+<style>text{font-family:-apple-system,"Segoe UI",Roboto,Arial,sans-serif}.k{font-size:12px;font-weight:700;letter-spacing:1.4px}.h{font-family:Georgia,"Times New Roman",serif;font-size:24px;font-weight:700}.c{font-size:14px;font-weight:600}</style>
+<rect width="700" height="380" rx="16" fill="#faf8f4"/>
+<rect x="30" y="36" width="440" height="140" rx="12" fill="#16211f"/>
+<text x="54" y="68" class="k" fill="#5fc2ad">LAYER 2 · GEO</text>
+<text x="54" y="98" class="h" fill="#faf8f4">Be the source the answer uses</text>
+<g fill="#22312e"><rect x="54" y="116" width="190" height="34" rx="17"/><rect x="252" y="116" width="122" height="34" rx="17"/></g>
+<text x="149" y="138" class="c" fill="#faf8f4" text-anchor="middle">Extractable answers</text>
+<text x="313" y="138" class="c" fill="#faf8f4" text-anchor="middle">Original data</text>
+<rect x="382" y="116" width="74" height="34" rx="17" fill="#22312e"/><text x="419" y="138" class="c" fill="#faf8f4" text-anchor="middle">Entity</text>
+<rect x="30" y="192" width="440" height="152" rx="12" fill="#e3f0ec" stroke="#0f6b5c" stroke-width="1.5"/>
+<text x="54" y="224" class="k" fill="#0f6b5c">LAYER 1 · SEO FOUNDATION</text>
+<text x="54" y="254" class="h" fill="#16211f">Be findable, fast and trusted</text>
+<g fill="#fff" stroke="#b9cbc6"><rect x="54" y="274" width="108" height="34" rx="17"/><rect x="170" y="274" width="64" height="34" rx="17"/><rect x="242" y="274" width="104" height="34" rx="17"/><rect x="354" y="274" width="102" height="34" rx="17"/></g>
+<g class="c" fill="#16211f" text-anchor="middle"><text x="108" y="296">Crawlable</text><text x="202" y="296">Fast</text><text x="294" y="296">On-intent</text><text x="405" y="296">Authority</text></g>
+<g fill="none" stroke="#d9a441" stroke-width="3" stroke-linecap="round"><path d="M482 106H540"/><path d="M482 268H540"/><path d="M528 96l12 10-12 10M528 258l12 10-12 10"/></g>
+<rect x="552" y="66" width="122" height="80" rx="12" fill="#fff" stroke="#e4e0d8" stroke-width="1.5"/>
+<path d="M613 80l3.6 9.4 9.4 3.6-9.4 3.6-3.6 9.4-3.6-9.4-9.4-3.6 9.4-3.6z" fill="#d9a441"/>
+<text x="613" y="128" class="c" fill="#16211f" text-anchor="middle">Cited in AI</text>
+<rect x="552" y="228" width="122" height="80" rx="12" fill="#fff" stroke="#e4e0d8" stroke-width="1.5"/>
+<circle cx="607" cy="252" r="9" fill="none" stroke="#0f6b5c" stroke-width="3"/><path d="M614 259l7 7" stroke="#0f6b5c" stroke-width="3" stroke-linecap="round"/>
+<text x="613" y="290" class="c" fill="#16211f" text-anchor="middle">Ranks in Google</text>
+</svg>

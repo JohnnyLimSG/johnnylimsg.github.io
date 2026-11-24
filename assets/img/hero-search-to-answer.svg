@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 382" width="520" height="382" role="img" aria-labelledby="t">
+<title id="t">A search result ranked first, and the same page cited as a source in an AI answer</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#d9a441"/></marker></defs>
+<rect x="10" y="10" width="500" height="362" rx="18" fill="#fff" stroke="#e4e0d8" stroke-width="1.5"/>
+<circle cx="34" cy="32" r="5" fill="#e4e0d8"/><circle cx="50" cy="32" r="5" fill="#e4e0d8"/><circle cx="66" cy="32" r="5" fill="#e4e0d8"/>
+<rect x="30" y="50" width="460" height="44" rx="22" fill="#faf8f4" stroke="#e4e0d8" stroke-width="1.5"/>
+<circle cx="54" cy="70" r="8" fill="none" stroke="#0f6b5c" stroke-width="2.5"/><path d="M60 76l6 6" stroke="#0f6b5c" stroke-width="2.5" stroke-linecap="round"/>
+<text x="78" y="77" font-family="-apple-system,Segoe UI,Roboto,Arial,sans-serif" font-size="15" fill="#4a5653">how do brands get cited by AI?</text>
+<rect x="298" y="61" width="2" height="20" fill="#0f6b5c"/>
+<g font-family="-apple-system,Segoe UI,Roboto,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.2" fill="#6d7875"><text x="30" y="124">SEARCH RESULTS</text><text x="270" y="124">AI ANSWER</text></g>
+<rect x="30" y="136" width="220" height="70" rx="10" fill="#e3f0ec" stroke="#0f6b5c" stroke-width="1.5"/>
+<circle cx="48" cy="155" r="6" fill="#0f6b5c"/><rect x="60" y="151" width="124" height="8" rx="4" fill="#0f6b5c"/>
+<rect x="44" y="171" width="190" height="6" rx="3" fill="#b9cbc6"/><rect x="44" y="185" width="150" height="6" rx="3" fill="#b9cbc6"/>
+<circle cx="246" cy="138" r="14" fill="#0f6b5c"/><text x="246" y="142.5" font-family="-apple-system,Segoe UI,Roboto,Arial,sans-serif" font-size="12" font-weight="700" fill="#fff" text-anchor="middle">#1</text>
+<g fill="#fff" stroke="#e4e0d8" stroke-width="1.5"><rect x="30" y="218" width="220" height="62" rx="10"/><rect x="30" y="292" width="220" height="62" rx="10"/></g>
+<g fill="#d5dbd9"><circle cx="48" cy="236" r="6"/><circle cx="48" cy="310" r="6"/><rect x="44" y="252" width="190" height="6" rx="3"/><rect x="44" y="264" width="130" height="6" rx="3"/><rect x="44" y="326" width="190" height="6" rx="3"/><rect x="44" y="338" width="110" height="6" rx="3"/></g>
+<g fill="#9fb3ae"><rect x="60" y="232" width="110" height="8" rx="4"/><rect x="60" y="306" width="96" height="8" rx="4"/></g>
+<rect x="270" y="136" width="220" height="218" rx="12" fill="#16211f"/>
+<path d="M292 146l3.2 8.8 8.8 3.2-8.8 3.2-3.2 8.8-3.2-8.8-8.8-3.2 8.8-3.2z" fill="#d9a441"/>
+<rect x="312" y="154" width="104" height="8" rx="4" fill="#faf8f4"/>
+<g fill="#3d4b48"><rect x="288" y="182" width="184" height="6" rx="3"/><rect x="288" y="196" width="168" height="6" rx="3"/><rect x="288" y="210" width="184" height="6" rx="3"/><rect x="288" y="224" width="120" height="6" rx="3"/></g>
+<g fill="#5fc2ad"><rect x="288" y="244" width="184" height="6" rx="3"/><rect x="288" y="258" width="142" height="6" rx="3"/></g>
+<text x="288" y="292" font-family="-apple-system,Segoe UI,Roboto,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#8d9b97">SOURCES</text>
+<rect x="288" y="302" width="72" height="24" rx="12" fill="#5fc2ad"/><text x="324" y="318" font-family="-apple-system,Segoe UI,Roboto,Arial,sans-serif" font-size="11" font-weight="700" fill="#16211f" text-anchor="middle">Your site</text>
+<g fill="#33423e"><rect x="368" y="302" width="34" height="24" rx="12"/><rect x="410" y="302" width="34" height="24" rx="12"/></g>
+<g font-family="-apple-system,Segoe UI,Roboto,Arial,sans-serif" font-size="11" font-weight="700" fill="#8d9b97" text-anchor="middle"><text x="385" y="318">2</text><text x="427" y="318">3</text></g>
+<path d="M226 206C232 268 262 300 282 312" fill="none" stroke="#d9a441" stroke-width="2.5" stroke-dasharray="6 5" stroke-linecap="round" marker-end="url(#ah)"/>
+</svg>

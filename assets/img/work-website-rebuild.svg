@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 150" width="400" height="150" role="img" aria-label="A rebuilt website with a blog grid, next to a phone playing a short-form video">
+<rect width="400" height="150" fill="#e3f0ec"/>
+<rect x="40" y="16" width="232" height="126" rx="8" fill="#fff" stroke="#c4dcd5" stroke-width="1.5"/>
+<path d="M40 34H272" stroke="#c4dcd5" stroke-width="1.5"/>
+<g fill="#d5dbd9"><circle cx="52" cy="25" r="3"/><circle cx="62" cy="25" r="3"/><circle cx="72" cy="25" r="3"/></g>
+<rect x="54" y="44" width="120" height="9" rx="4.5" fill="#16211f"/><rect x="54" y="58" width="80" height="6" rx="3" fill="#9fb3ae"/>
+<g fill="#e3f0ec"><rect x="54" y="74" width="64" height="40" rx="4"/><rect x="124" y="74" width="64" height="40" rx="4"/><rect x="194" y="74" width="64" height="40" rx="4"/></g>
+<g fill="#0f6b5c"><rect x="54" y="120" width="50" height="5" rx="2.5"/><rect x="124" y="120" width="44" height="5" rx="2.5"/><rect x="194" y="120" width="52" height="5" rx="2.5"/></g>
+<rect x="296" y="10" width="72" height="132" rx="12" fill="#16211f"/>
+<rect x="302" y="22" width="60" height="108" rx="4" fill="#0f6b5c"/>
+<circle cx="332" cy="76" r="16" fill="#faf8f4" opacity=".95"/><path d="M327 68l13 8-13 8z" fill="#0f6b5c"/>
+<g fill="#d9a441"><circle cx="352" cy="98" r="3.5"/><circle cx="352" cy="110" r="3.5"/></g>
+</svg>
