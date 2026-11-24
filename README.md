@@ -86,6 +86,18 @@ in the About section with the `<img>` tag shown in the comment above it. Then ad
 
 When you update a post later, change its `dateModified` and the `<lastmod>` in `sitemap.xml`.
 
+### Notifying Bing (IndexNow)
+
+`ce5a1ce6fe5c9c8e30223be8e8eb6eee.txt` in the root is the site's IndexNow key; keep it there. After publishing or updating a
+page, ping Bing (and other IndexNow engines) so it's crawled straight away:
+
+```bash
+curl -s -X POST https://api.indexnow.org/indexnow -H 'Content-Type: application/json' \
+  -d '{"host":"johnnylimsg.github.io","key":"ce5a1ce6fe5c9c8e30223be8e8eb6eee","keyLocation":"https://johnnylimsg.github.io/ce5a1ce6fe5c9c8e30223be8e8eb6eee.txt","urlList":["https://johnnylimsg.github.io/blog/your-post-slug/","https://johnnylimsg.github.io/blog/","https://johnnylimsg.github.io/"]}'
+```
+
+A `200` or `202` response means it was accepted. Google doesn't use IndexNow; it relies on the sitemap.
+
 **Tip for GEO:** put a direct 2–3 sentence answer in the "Short answer" box, use headings phrased
 the way people ask questions, and include something original: your own data, examples or opinion.
 That's the part AI answer engines tend to quote.
