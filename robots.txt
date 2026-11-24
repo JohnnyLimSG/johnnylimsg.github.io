@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 Disallow: /blog/post-template/
 
-Sitemap: https://YOUR-USERNAME.github.io/sitemap.xml
+Sitemap: https://johnnylimsg.github.io/sitemap.xml
