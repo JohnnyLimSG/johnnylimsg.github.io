@@ -32,10 +32,9 @@ Illustrations live in `assets/img/` as small SVG files (a few KB each), so the s
 Always give an `<img>` a `width`, a `height` and a descriptive `alt`, and add `loading="lazy"` to
 any image below the first screen.
 
-**Adding your headshot:** save a square photo (about 480×480, under 60 KB) as
-`assets/img/johnny-lim.jpg`. In `index.html`, replace the `<div class="about-photo about-mono" …>JL</div>`
-in the About section with the `<img>` tag shown in the comment above it. Then add
-`"image": "https://johnnylimsg.github.io/assets/img/johnny-lim.jpg",` to the Person schema in the `<head>`.
+**Headshot:** `assets/img/johnny-lim.jpg` (plus a smaller `.webp` copy) is used in the About
+section, the author box on posts and the Person schema `image`. To change it, replace both files
+with a square photo of the same name.
 
 ---
 
