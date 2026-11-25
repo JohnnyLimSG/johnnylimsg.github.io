@@ -75,7 +75,8 @@ with a square photo of the same name.
 3. Paste the template and replace:
    - the `<title>`, `meta description`, `og:title`, `og:description`
    - `your-post-slug` in the canonical URL, `og:url` and `mainEntityOfPage`
-   - the dates (`datePublished`, `dateModified`, the visible date)
+   - the dates (`datePublished`, `dateModified`, the visible date). Schema dates use the full
+     format with Singapore time, e.g. `2026-11-25T09:00:00+08:00`
    - the headline, the "Short answer" box and the body
    - **delete** the yellow note box and the `<meta name="robots" content="noindex">` line
 4. Add the post to the top of the list in `blog/index.html` and in the "Latest writing" section of
