@@ -2,7 +2,7 @@
 :root {
   --ink: #16211f;
   --ink-soft: #4a5653;
-  --muted: #6d7875;
+  --muted: #636e6b;
   --paper: #faf8f4;
   --card: #ffffff;
   --line: #e4e0d8;
@@ -87,9 +87,9 @@ section { padding: 64px 0; border-top: 1px solid var(--line); }
 .posts { list-style: none; padding: 0; margin: 0; }
 .posts li { padding: 22px 0; border-bottom: 1px solid var(--line); }
 .posts li:first-child { padding-top: 0; }
-.posts h3 { margin: 4px 0 6px; font-size: 1.35rem; }
-.posts h3 a { color: var(--ink); text-decoration: none; }
-.posts h3 a:hover { color: var(--accent); }
+.posts h2, .posts h3 { margin: 4px 0 6px; font-size: 1.35rem; }
+.posts h2 a, .posts h3 a { color: var(--ink); text-decoration: none; }
+.posts h2 a:hover, .posts h3 a:hover { color: var(--accent); }
 .posts p { margin: 0; color: var(--ink-soft); }
 .meta { color: var(--muted); font-size: 0.88rem; }
 
