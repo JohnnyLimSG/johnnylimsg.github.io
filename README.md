@@ -6,14 +6,14 @@ Plain HTML/CSS, no build step. GitHub Pages serves these files exactly as they a
 
 | File | What it does |
 |---|---|
-| `index.html` | Home page: hero, about, what I do, how I work, selected work, career, skills, latest posts, contact |
+| `index.html` | Home page: hero, about, what I do, how I work, selected projects, career, skills, latest posts, contact |
 | `blog/index.html` | List of all blog posts |
 | `blog/seo-vs-geo/index.html` | First post: SEO vs GEO |
 | `blog/post-template/index.html` | Copy this to start a new post (hidden from Google) |
 | `assets/styles.css` | All styling |
 | `assets/Johnny_Lim_Resume.pdf` | Resume download (phone number removed for the public version) |
 | `resume/resume.html` | Source for the resume PDF (hidden from search engines) |
-| `assets/img/` | SVG illustrations: hero, selected work, blog diagrams |
+| `assets/img/` | SVG illustrations: hero, selected projects, blog diagrams |
 | `assets/og-image.png` | Preview image shown when the link is shared on LinkedIn/WhatsApp |
 | `sitemap.xml` | List of pages for Google (submit in Search Console) |
 | `robots.txt` | Lets search engines and AI crawlers in; points to the sitemap |
