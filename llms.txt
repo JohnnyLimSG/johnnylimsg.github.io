@@ -12,7 +12,7 @@
 ## About
 - [Profile and experience](https://johnnylimsg.github.io/): Background, approach, selected work, career, skills and contact details
 - [Resume (PDF)](https://johnnylimsg.github.io/assets/Johnny_Lim_Resume.pdf): Full resume
-- [Hire Johnny Lim](https://johnnylimsg.github.io/hire/): Open to full-time SEO and GEO roles in Singapore; results, approach and FAQ, including the difference between SEO, GEO, AEO and AIO
+- [Why hire an in-house SEO and GEO lead](https://johnnylimsg.github.io/hire/): Johnny Lim's case for in-house SEO and GEO in Singapore; results, approach and FAQ, including the difference between SEO, GEO, AEO and AIO
 
 ## Blog
 - [SEO for recruitment firms: stop publishing generic content](https://johnnylimsg.github.io/blog/seo-for-recruitment-firms/): What I've learned doing SEO for a specialist recruiter: why generic content gets ignored by Google and AI search, and what works instead.
