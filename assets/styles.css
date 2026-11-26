@@ -226,3 +226,12 @@ section { padding: 64px 0; border-top: 1px solid var(--line); }
 .cta-box { margin-top: 48px; padding: 28px; border: 1px solid var(--line); border-radius: 14px; background: var(--card); text-align: center; }
 .cta-box h2 { margin-top: 0; }
 .cta-box .actions { justify-content: center; margin-top: 16px; }
+@media (max-width: 380px) {
+  .site-header .wrap { padding: 0 12px; gap: 10px; }
+  .brand { font-size: 0.98rem; }
+  .nav { gap: 9px; font-size: 0.8rem; }
+}
+@media (max-width: 340px) {
+  .nav { gap: 7px; font-size: 0.76rem; }
+  .brand { font-size: 0.92rem; }
+}
