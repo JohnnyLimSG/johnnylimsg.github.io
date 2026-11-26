@@ -2,5 +2,6 @@
 User-agent: *
 Allow: /
 Disallow: /blog/post-template/
+Disallow: /resume/
 
 Sitemap: https://johnnylimsg.github.io/sitemap.xml

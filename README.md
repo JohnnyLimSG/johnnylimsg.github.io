@@ -12,6 +12,7 @@ Plain HTML/CSS, no build step. GitHub Pages serves these files exactly as they a
 | `blog/post-template/index.html` | Copy this to start a new post (hidden from Google) |
 | `assets/styles.css` | All styling |
 | `assets/Johnny_Lim_Resume.pdf` | Resume download (phone number removed for the public version) |
+| `resume/resume.html` | Source for the resume PDF (hidden from search engines) |
 | `assets/img/` | SVG illustrations: hero, selected work, blog diagrams |
 | `assets/og-image.png` | Preview image shown when the link is shared on LinkedIn/WhatsApp |
 | `sitemap.xml` | List of pages for Google (submit in Search Console) |
@@ -101,6 +102,13 @@ A `200` or `202` response means it was accepted. Google doesn't use IndexNow; it
 **Tip for GEO:** put a direct 2–3 sentence answer in the "Short answer" box, use headings phrased
 the way people ask questions, and include something original: your own data, examples or opinion.
 That's the part AI answer engines tend to quote.
+
+## Updating the resume
+
+The PDF is generated from `resume/resume.html`. Edit that file, then print it to A4 PDF and save it
+as `assets/Johnny_Lim_Resume.pdf` (Chrome: open the file, Ctrl+P, Destination "Save as PDF",
+Paper A4, Margins "Default", tick "Background graphics"). Keep it to two pages and a single column
+so applicant tracking systems can read it.
 
 ## Optional: your own domain
 
