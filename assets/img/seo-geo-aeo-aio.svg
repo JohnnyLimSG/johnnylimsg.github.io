@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 380" width="700" height="380" role="img" aria-labelledby="t d">
+<title id="t">How SEO, AEO, GEO and AIO fit together</title>
+<desc id="d">SEO is the foundation: crawlable, indexed, relevant and trusted pages. On top of it sit three goals. AEO: be the direct answer to a question. GEO: be included and recommended in AI-generated answers. AIO: be understood correctly by AI systems, including Google AI Overviews.</desc>
+<style>text{font-family:-apple-system,"Segoe UI",Roboto,Arial,sans-serif}.k{font-size:11px;font-weight:700;letter-spacing:1.3px}.h{font-family:Georgia,"Times New Roman",serif;font-size:26px;font-weight:700}.s{font-size:13px}.f{font-size:14px;font-weight:600}</style>
+<rect width="700" height="380" rx="16" fill="#faf8f4"/>
+<g>
+<rect x="30" y="34" width="200" height="190" rx="12" fill="#16211f"/>
+<text x="54" y="66" class="k" fill="#5fc2ad">AEO</text>
+<text x="54" y="98" class="h" fill="#faf8f4">Be the answer</text>
+<text x="54" y="128" class="s" fill="#b9cbc6">Picked as the direct</text><text x="54" y="146" class="s" fill="#b9cbc6">answer to a question</text>
+<text x="54" y="196" class="s" fill="#8d9b97">Snippets · People Also Ask</text>
+</g>
+<g>
+<rect x="250" y="34" width="200" height="190" rx="12" fill="#0f6b5c"/>
+<text x="274" y="66" class="k" fill="#d3ebe5">GEO</text>
+<text x="274" y="98" class="h" fill="#fff">Be in the AI</text><text x="274" y="128" class="h" fill="#fff">answer</text>
+<text x="274" y="156" class="s" fill="#d3ebe5">Mentioned, cited and</text><text x="274" y="174" class="s" fill="#d3ebe5">recommended by AI</text>
+<text x="274" y="204" class="s" fill="#a9d6cb">ChatGPT · Perplexity</text>
+</g>
+<g>
+<rect x="470" y="34" width="200" height="190" rx="12" fill="#5fc2ad"/>
+<text x="494" y="66" class="k" fill="#16211f">AIO</text>
+<text x="494" y="98" class="h" fill="#16211f">Be understood</text>
+<text x="494" y="128" class="s" fill="#16211f">AI gets your brand right,</text><text x="494" y="146" class="s" fill="#16211f">or: optimising for Google</text><text x="494" y="164" class="s" fill="#16211f">AI Overviews</text>
+<text x="494" y="204" class="s" fill="#16211f">AI Overviews · assistants</text>
+</g>
+<g fill="#d9a441"><path d="M122 232l8 12h-16z"/><path d="M342 232l8 12h-16z"/><path d="M562 232l8 12h-16z"/></g>
+<rect x="30" y="252" width="640" height="100" rx="12" fill="#e3f0ec" stroke="#0f6b5c" stroke-width="1.5"/>
+<text x="54" y="284" class="k" fill="#0f6b5c">THE FOUNDATION · SEO</text>
+<text x="54" y="316" class="h" fill="#16211f">Be found and trusted</text>
+<text x="54" y="340" class="s" fill="#4a5653">Crawlable · indexed · on-intent · fast · authoritative. Every AI answer starts from pages like these.</text>
+</svg>
