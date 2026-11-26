@@ -45,9 +45,12 @@
   "https://developers.google.com/search/docs/appearance/ai-features",
   "https://arxiv.org/abs/2311.09735",
   "https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/",
-  "https://www.seroundtable.com/schema-llms-copilot-bing-microsoft-39093.html"
+  "https://www.seroundtable.com/schema-llms-copilot-bing-microsoft-39093.html",
+  "https://developers.google.com/search/docs/fundamentals/creating-helpful-content",
+  "https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data",
+  "https://developers.openai.com/api/docs/bots"
  ],
- "wordCount": 1843,
+ "wordCount": 1958,
  "inLanguage": "en-SG"
 }</script>
 </head>
@@ -92,12 +95,12 @@
  </figure>
 
  <h2>Are these official terms?</h2>
- <p>No. None of them is a standard, and you'll see agencies define them differently. Google's own position is that you don't need anything special for its AI features. Its guidance says there are "no additional requirements to appear in AI Overviews or AI Mode, nor other special optimizations necessary", and that "the best practices for SEO remain relevant".</p>
+ <p>No. None of them is a standard, and you'll see agencies define them differently. Google's own position is that you don't need anything special for its AI features. <a href="https://developers.google.com/search/docs/appearance/ai-features">Its guidance on AI features</a> says there are "no additional requirements to appear in AI Overviews or AI Mode, nor other special optimizations necessary", and that "the best practices for SEO remain relevant".</p>
  <p>I agree with that, and I still use the terms at work. Doing well in Google and being recommended by an AI tool are different outcomes, measured in different ways. Having a name for each goal makes it easier to plan for it and to explain it to people who don't work in SEO.</p>
 
  <h2>What is SEO?</h2>
  <p>Search engine optimisation is the work of getting your pages to show up when someone searches. It covers the technical side (can Google crawl and index the page, and is it fast?), the content (does it answer what the searcher wants?) and authority (do other sites and people trust you?).</p>
- <p>Everything else in this post depends on it. AI Overviews are built from pages Google has indexed. ChatGPT and Perplexity search the web too. If your pages can't be found and trusted, there's nothing for an AI tool to quote.</p>
+ <p>Everything else in this post depends on it. AI Overviews are built from pages Google has indexed. ChatGPT searches the web too, using OpenAI's own crawler, and <a href="https://developers.openai.com/api/docs/bots">OpenAI says</a> sites that block it won't be shown in ChatGPT search answers. If your pages can't be found and trusted, there's nothing for an AI tool to quote.</p>
 
  <h2>What is AEO?</h2>
  <p>Answer engine optimisation is about structuring content so it gets picked as <em>the</em> answer to a question, rather than one link among ten. The term was around before ChatGPT, when the goal was featured snippets and voice assistants. The same habits now help with AI answers too:</p>
@@ -108,7 +111,7 @@
  </ul>
 
  <h2>What is GEO?</h2>
- <p>Generative engine optimisation is about getting your brand included in answers written by AI, whether it's a passing mention, a recommendation or a cited source. The term comes from a 2023 research paper by Aggarwal and colleagues, later published at KDD 2024. They reported that content changes could boost visibility in AI-generated responses "by up to 40%".</p>
+ <p>Generative engine optimisation is about getting your brand included in answers written by AI, whether it's a passing mention, a recommendation or a cited source. The term comes from <a href="https://arxiv.org/abs/2311.09735">a 2023 research paper by Aggarwal and colleagues</a>, later published at KDD 2024. They reported that content changes could boost visibility in AI-generated responses "by up to 40%".</p>
  <p>That figure comes from tests on a research benchmark, not from live Google or ChatGPT results, so treat it as a sign of what's possible rather than a promise. In my experience, the things that matter most for GEO are original information that only you have, and being clearly associated with the topic across many sources, not just your own website.</p>
 
  <h2>What is AIO?</h2>
@@ -123,10 +126,10 @@
  <p>I do use these terms with my boss and colleagues. The simplest version I've found is this: SEO is about getting our website to show up when someone searches a keyword. GEO and AEO are about making sure AI tools actually recommend us when someone asks a question. More people now ask ChatGPT or Google's AI for advice instead of clicking through ten links, so we want our brand to be part of the answer.</p>
  <p>Leadership cares about market share, winning customers and staying ahead of competitors. Colleagues want to know what changes in their day-to-day work. These are the points I make to each:</p>
  <ul>
-  <li><strong>The risk:</strong> fewer people click through to websites when an AI summary appears. Pew Research found that Google users clicked a result in 8% of visits when an AI summary appeared, compared with 15% when it didn't. If a buyer asks an AI tool for the best firm in our space and we aren't mentioned, we may not even make the shortlist.</li>
+  <li><strong>The risk:</strong> fewer people click through to websites when an AI summary appears. <a href="https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/">Pew Research found</a> that Google users clicked a result in 8% of visits when an AI summary appeared, compared with 15% when it didn't. If a buyer asks an AI tool for the best firm in our space and we aren't mentioned, we may not even make the shortlist.</li>
   <li><strong>The opportunity:</strong> in my sector, most competitors are still focused only on Google rankings. Working on AI visibility now gives us a chance to become a default recommendation before they catch up.</li>
   <li><strong>The business impact:</strong> overall traffic from simple informational searches may dip. But in my experience, the people who arrive after an AI tool has recommended us are better qualified and more likely to get in touch.</li>
-  <li><strong>For content writers:</strong> instead of long posts padded with keywords, write clear, direct answers. Concise definitions, bullet points, comparison tables and original data are much easier for AI tools to quote.</li>
+  <li><strong>For content writers:</strong> instead of long posts padded with keywords, write clear, direct answers. Concise definitions, bullet points, comparison tables and original data are much easier for AI tools to quote. It's also what Google's guidance on <a href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content">people-first content</a> asks for.</li>
   <li><strong>For web and product teams:</strong> make sure the site states plainly who we are, what we do and, where it's public, what we charge. Keep those facts consistent across the website, LinkedIn and directories, and back them up with schema markup. That's what stops AI tools from getting us wrong.</li>
  </ul>
 
@@ -141,11 +144,11 @@
 
  <h2>What has worked for me</h2>
  <p>At the executive search firm where I lead marketing, I followed that order. Within about six weeks, the homepage reached #1 on Google in Singapore for "best executive search firm Singapore" and related searches. The firm is now cited in Google AI Overviews and ChatGPT for the same questions, and some of our case studies are cited directly.</p>
- <p>The part leadership cares about most: over six months, around 30 prospects found us through AI Overviews and ChatGPT, read our case studies and sent in enquiries. None of that needed a separate "GEO strategy". It came from solid SEO, clear answers and content only we could publish.</p>
+ <p>The part leadership cares about most: over six months, around 30 prospects found us through AI Overviews and ChatGPT, read our case studies and sent in enquiries. None of that needed a separate "GEO strategy". It came from solid SEO, clear answers and content only we could publish. I wrote more about what worked in <a href="../seo-for-recruitment-firms/">SEO for recruitment firms: stop publishing generic content</a>.</p>
  <p>One difference I've noticed between platforms: ChatGPT tends to give more recommendations, with a fuller explanation of why each one was chosen. Google's AI Overviews are usually a shorter summary. That varies by question, but it's one reason to check both.</p>
 
  <h2>Does schema markup stop AI tools getting your brand wrong?</h2>
- <p>It helps, but it isn't a guarantee. Microsoft has said that schema markup helps its AI models understand content. Google says you don't need any special schema to appear in its AI features, only that your structured data should match what's visible on the page. Beyond that, I haven't seen solid public evidence that schema on its own makes AI tools cite you more often.</p>
+ <p>It helps, but it isn't a guarantee. Schema markup is <a href="https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data">structured data</a>: code that labels what a page is about, such as a person, an organisation or an article. Microsoft's Fabrice Canel has said it helps Microsoft's AI models understand content, as <a href="https://www.seroundtable.com/schema-llms-copilot-bing-microsoft-39093.html">reported by Search Engine Roundtable</a>. Google says you don't need any special schema to appear in its AI features, only that your structured data should match what's visible on the page. Beyond that, I haven't seen solid public evidence that schema on its own makes AI tools cite you more often.</p>
  <p>So I treat schema as support, not the main fix. What matters more is that the visible text on your site says clearly and consistently what you do, and that other sources say the same thing.</p>
 
  <h2>How do you measure each one?</h2>
@@ -170,14 +173,17 @@
  <p>AEO is about being picked as the direct answer to a question. GEO is broader: being mentioned, cited or recommended anywhere in an AI-generated answer. In practice, the same work helps both.</p>
  <h3>How long does it take to see results?</h3>
  <p>It depends on your starting point and your competition. In my case, the homepage reached #1 in about six weeks, and AI citations followed. A newer site with little authority will usually take longer.</p>
- <p>For more on how GEO builds on SEO, read <a href="../seo-vs-geo/">SEO vs GEO: what changes when search gives answers instead of links</a>.</p>
+ <p>For more on how GEO builds on SEO, read <a href="../seo-vs-geo/">SEO vs GEO: what changes when search gives answers instead of links</a>. If you're looking for an in-house SEO and GEO lead in Singapore, here's <a href="../../hire/">how I work</a>.</p>
 
  <h2>Sources</h2>
  <ul class="sources">
   <li>Google Search Central, <a href="https://developers.google.com/search/docs/appearance/ai-features" rel="noopener">AI features and your website</a>.</li>
   <li>Aggarwal et al., <a href="https://arxiv.org/abs/2311.09735" rel="noopener">GEO: Generative Engine Optimization</a>, KDD 2024.</li>
   <li>Pew Research Center, <a href="https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/" rel="noopener">Google users are less likely to click on links when an AI summary appears in the results</a>, 22 July 2025 (US data, March 2025).</li>
-  <li>Search Engine Roundtable, <a href="https://www.seroundtable.com/schema-llms-copilot-bing-microsoft-39093.html" rel="noopener">Microsoft confirms schema helps its LLMs (Copilot) understand your content</a>, March 2025.</li>
+  <li>Google Search Central, <a href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" rel="noopener">Creating helpful, reliable, people-first content</a>.</li>
+  <li>Google Search Central, <a href="https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data" rel="noopener">Introduction to structured data markup in Google Search</a>.</li>
+  <li>OpenAI, <a href="https://developers.openai.com/api/docs/bots" rel="noopener">Overview of OpenAI crawlers</a>.</li>
+  <li>Search Engine Roundtable, <a href="https://www.seroundtable.com/schema-llms-copilot-bing-microsoft-39093.html" rel="noopener">Microsoft confirms schema helps its LLMs (Copilot) understand your content</a>, Barry Schwartz, 20 March 2025.</li>
  </ul>
 
  <div class="author-box">
