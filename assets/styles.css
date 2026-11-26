@@ -103,7 +103,7 @@ section { padding: 64px 0; border-top: 1px solid var(--line); }
 .article ul, .article ol { padding-left: 22px; }
 .article li { margin-bottom: 6px; }
 .tldr { background: var(--accent-soft); border-radius: 10px; padding: 18px 22px; margin: 0 0 32px; }
-.tldr strong:first-child { display: block; font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--accent); margin-bottom: 4px; }
+.tldr > strong:first-child { display: block; font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--accent); margin-bottom: 4px; }
 .tldr p { margin: 0; }
 .author-box { display: flex; gap: 16px; align-items: center; border-top: 1px solid var(--line); margin-top: 48px; padding-top: 24px; }
 .author-box picture { flex: none; line-height: 0; }
@@ -234,4 +234,23 @@ section { padding: 64px 0; border-top: 1px solid var(--line); }
 @media (max-width: 340px) {
   .nav { gap: 7px; font-size: 0.76rem; }
   .brand { font-size: 0.92rem; }
+}
+
+/* Article tables and sources */
+.table-wrap { overflow-x: auto; margin: 8px 0 28px; border: 1px solid var(--line); border-radius: 12px; background: var(--card); }
+.article table { width: 100%; border-collapse: collapse; font-size: 0.95rem; min-width: 560px; }
+.article th, .article td { text-align: left; vertical-align: top; padding: 12px 14px; border-bottom: 1px solid var(--line); }
+.article thead th { font-size: 0.78rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); background: var(--paper); }
+.article tbody th { font-family: var(--serif); font-size: 1.05rem; color: var(--accent); white-space: nowrap; }
+.article tbody tr:last-child th, .article tbody tr:last-child td { border-bottom: 0; }
+.sources li { font-size: 0.95rem; color: var(--ink-soft); }
+@media (max-width: 600px) {
+  .table-wrap { overflow: visible; border: 0; background: none; }
+  .article table, .article tbody, .article tr, .article th, .article td { display: block; min-width: 0; }
+  .article thead { display: none; }
+  .article tbody tr { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 14px 16px; margin-bottom: 12px; }
+  .article tbody th, .article td { padding: 0; border: 0; }
+  .article tbody th { margin-bottom: 8px; font-size: 1.2rem; }
+  .article td { margin-top: 8px; }
+  .article td::before { content: attr(data-label); display: block; font-size: 0.72rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
 }

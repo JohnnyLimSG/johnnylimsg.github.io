@@ -15,6 +15,7 @@
 - [Why hire an in-house SEO and GEO lead](https://johnnylimsg.github.io/hire/): Johnny Lim's case for in-house SEO and GEO in Singapore; results, approach and FAQ, including the difference between SEO, GEO, AEO and AIO
 
 ## Blog
+- [SEO vs GEO vs AEO vs AIO: what's the difference, and which matters?](https://johnnylimsg.github.io/blog/seo-vs-geo-vs-aeo-vs-aio/): A plain-English comparison of SEO, GEO, AEO and AIO from a Singapore marketer who has ranked #1 on Google and been cited in AI answers: what each means, how they overlap, and where to start.
 - [SEO for recruitment firms: stop publishing generic content](https://johnnylimsg.github.io/blog/seo-for-recruitment-firms/): What I've learned doing SEO for a specialist recruiter: why generic content gets ignored by Google and AI search, and what works instead.
 - [SEO vs GEO: what changes when search gives answers instead of links](https://johnnylimsg.github.io/blog/seo-vs-geo/): Generative Engine Optimisation builds on SEO rather than replacing it. Here's what stays the same, what changes, and a practical checklist for getting cited by AI answer engines.
 
