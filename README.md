@@ -83,6 +83,7 @@ with a square photo of the same name.
 4. Add the post to the top of the list in `blog/index.html` and in the "Latest writing" section of
    `index.html`. Copy an existing `<li>…</li>` block and edit it.
 5. Add a `<url>` line to `sitemap.xml` and a line to `llms.txt`.
+   (The template already includes the Google Analytics tag, `G-6NB24EQ7NC`. Keep it in every new page.)
 6. Commit. The post is live in a minute or two.
 
 When you update a post later, change its `dateModified` and the `<lastmod>` in `sitemap.xml`.
