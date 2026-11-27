@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 150" width="400" height="150" role="img" aria-label="Line chart of website visits rising about tenfold">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 150" width="400" height="150" role="img" aria-label="Line chart of website visits rising from almost zero to around 1,000 a month">
 <rect width="400" height="150" fill="#e3f0ec"/>
 <g stroke="#c4dcd5" stroke-width="1"><path d="M30 40H370M30 75H370M30 110H370"/></g>
-<path d="M30 126.8L72 123.7 114 119.6 156 114.2 198 106.9 240 97.2 282 84.3 324 67.0 370 44.0V136H30Z" fill="#0f6b5c" opacity=".14"/>
-<path d="M30 126.8L72 123.7 114 119.6 156 114.2 198 106.9 240 97.2 282 84.3 324 67.0 370 44.0" fill="none" stroke="#0f6b5c" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M30 135.8L72 135.6 114 134.8 156 132 198 126.8 240 116 282 98 324 74 370 44V136H30Z" fill="#0f6b5c" opacity=".14"/>
+<path d="M30 135.8L72 135.6 114 134.8 156 132 198 126.8 240 116 282 98 324 74 370 44" fill="none" stroke="#0f6b5c" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round"/>
 <path d="M30 136H370" stroke="#16211f" stroke-width="1.5"/>
-<circle cx="30" cy="126.8" r="5" fill="#fff" stroke="#0f6b5c" stroke-width="2.5"/>
+<circle cx="30" cy="135.8" r="5" fill="#fff" stroke="#0f6b5c" stroke-width="2.5"/>
 <circle cx="370" cy="44" r="7" fill="#d9a441" stroke="#fff" stroke-width="2.5"/>
 </svg>
