@@ -232,8 +232,9 @@ section { padding: 64px 0; border-top: 1px solid var(--line); }
   .nav { gap: 9px; font-size: 0.8rem; }
 }
 @media (max-width: 340px) {
-  .nav { gap: 7px; font-size: 0.76rem; }
-  .brand { font-size: 0.92rem; }
+  .site-header .wrap { padding: 0 10px; gap: 8px; }
+  .nav { gap: 6px; font-size: 0.72rem; }
+  .brand { font-size: 0.86rem; }
 }
 
 /* Article tables and sources */
