@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 50 700 250" width="700" height="250" role="img" aria-labelledby="t d">
+<title id="t">Timeline of results for a Singapore executive search firm</title>
+<desc id="d">Month 0: technical SEO and Search Console research begin. About 6 weeks: #1 on Google in Singapore. About 3.5 months: cited in Google AI Overviews and ChatGPT. About month 6: enquiries begin from people who found the firm through AI search. About month 12: around 30 enquiries in six months, and all of them became clients.</desc>
+<style>text{font-family:-apple-system,"Segoe UI",Roboto,Arial,sans-serif}.w{font-size:11px;font-weight:700;letter-spacing:1px}.h{font-size:15px;font-weight:700}.s{font-size:12.5px}</style>
+<rect y="50" width="700" height="250" rx="16" fill="#faf8f4"/>
+<path d="M70 120H630" stroke="#c4dcd5" stroke-width="4" stroke-linecap="round"/>
+<g fill="#fff" stroke="#0f6b5c" stroke-width="3"><circle cx="70" cy="120" r="9"/><circle cx="210" cy="120" r="9"/><circle cx="350" cy="120" r="9"/><circle cx="490" cy="120" r="9"/></g>
+<circle cx="630" cy="120" r="12" fill="#d9a441" stroke="#fff" stroke-width="3"/>
+<g class="w" fill="#636e6b" text-anchor="middle"><text x="70" y="92">MONTH 0</text><text x="210" y="92">~6 WEEKS</text><text x="350" y="92">~3.5 MONTHS</text><text x="490" y="92">~MONTH 6</text><text x="630" y="92">~MONTH 12</text></g>
+<g text-anchor="middle">
+<text x="70" y="160" class="h" fill="#16211f">Start</text><text x="70" y="180" class="s" fill="#4a5653">Technical SEO,</text><text x="70" y="197" class="s" fill="#4a5653">search research</text>
+<text x="210" y="160" class="h" fill="#16211f">#1 on Google</text><text x="210" y="180" class="s" fill="#4a5653">for core searches</text><text x="210" y="197" class="s" fill="#4a5653">in Singapore</text>
+<text x="350" y="160" class="h" fill="#16211f">Cited by AI</text><text x="350" y="180" class="s" fill="#4a5653">AI Overviews</text><text x="350" y="197" class="s" fill="#4a5653">and ChatGPT</text>
+<text x="490" y="160" class="h" fill="#16211f">Enquiries begin</text><text x="490" y="180" class="s" fill="#4a5653">from AI search,</text><text x="490" y="197" class="s" fill="#4a5653">via case studies</text>
+<text x="630" y="160" class="h" fill="#0f6b5c">~30 enquiries</text><text x="630" y="180" class="s" fill="#4a5653">in six months,</text><text x="630" y="197" class="s" fill="#4a5653">all became clients</text>
+</g>
+<rect x="40" y="230" width="620" height="44" rx="10" fill="#e3f0ec"/>
+<text x="350" y="257" text-anchor="middle" class="s" fill="#16211f">Before: almost no SEO · ~6 visitors a month from paid search · almost no web enquiries</text>
+</svg>
