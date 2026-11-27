@@ -105,6 +105,12 @@ A `200` or `202` response means it was accepted. Google doesn't use IndexNow; it
 the way people ask questions, and include something original: your own data, examples or opinion.
 That's the part AI answer engines tend to quote.
 
+## Email links
+
+The email address isn't written in the HTML, to keep it away from spam bots. Email buttons look like
+`<a href="#" data-u="yuantenglim" data-d="gmail.com">Email me</a>`, and `assets/email.js` turns them
+into normal email links when the page loads. New pages need the same script tag before `</body>`.
+
 ## Updating the resume
 
 The PDF is generated from `resume/resume.html`. Edit that file, then print it to A4 PDF and save it
