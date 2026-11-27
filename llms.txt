@@ -14,6 +14,10 @@
 - [Resume (PDF)](https://johnnylimsg.github.io/assets/Johnny_Lim_Resume.pdf): Full resume
 - [Why hire an in-house SEO and GEO lead](https://johnnylimsg.github.io/hire/): Johnny Lim's case for in-house SEO and GEO in Singapore; results, approach and FAQ, including the difference between SEO, GEO, AEO and AIO
 
+## Case studies
+- [Case studies](https://johnnylimsg.github.io/case-studies/): Detailed SEO and GEO case studies with situation, approach, results and lessons
+- [From paid search to #1 on Google and cited by AI: a Singapore executive search firm](https://johnnylimsg.github.io/case-studies/executive-search-firm-seo-geo/): Almost no SEO and ~6 visitors a month from paid search, to #1 on Google in about six weeks, AI Overview and ChatGPT citations about two months later, and ~30 enquiries in six months that all became clients
+
 ## Blog
 - [SEO vs GEO vs AEO vs AIO: what's the difference, and which matters?](https://johnnylimsg.github.io/blog/seo-vs-geo-vs-aeo-vs-aio/): A plain-English comparison of SEO, GEO, AEO and AIO from a Singapore marketer who has ranked #1 on Google and been cited in AI answers: what each means, how they overlap, and where to start.
 - [SEO for recruitment firms: stop publishing generic content](https://johnnylimsg.github.io/blog/seo-for-recruitment-firms/): What I've learned doing SEO for a specialist recruiter: why generic content gets ignored by Google and AI search, and what works instead.

@@ -8,6 +8,7 @@ Plain HTML/CSS, no build step. GitHub Pages serves these files exactly as they a
 |---|---|
 | `index.html` | Home page: hero, about, what I do, how I work, selected projects, career, skills, latest posts, contact |
 | `blog/index.html` | List of all blog posts |
+| `case-studies/` | Case studies list and one folder per case study (no company names) |
 | `blog/seo-vs-geo/index.html` | First post: SEO vs GEO |
 | `blog/post-template/index.html` | Copy this to start a new post (hidden from Google) |
 | `assets/styles.css` | All styling |
